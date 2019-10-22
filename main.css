@@ -13,20 +13,16 @@ body {
 
 .calculator {
     flex: 0 0 95%;
-
-
 }
 
 .screen {
     width: 100%;
     font-size: 7rem;
-    padding: 0,5rem;
+    padding: 0.5rem;
     background: rgb(41,41,56);
     color: lightblue;
     border: none;
     border-radius: 5px;
-
-
 }
 
 .btns {
@@ -46,11 +42,11 @@ body {
 }
 
 .btn:hover {
-    background: blue;
+    background: dimgrey;
 }
 
 .btn-math {
-    background: darkgreen;
+    background: darkslategrey;
     color: white;
 }
 
@@ -58,9 +54,9 @@ body {
     background: rgb(224,224,224);
 }
 .btn-equal {
-    background: lightgreen;
+    background: darkslategrey;
 }
 
 .btn-clear {
-    background: red;
+    background: darkslategrey;
 }
